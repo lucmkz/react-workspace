@@ -1,4 +1,11 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Start Config for development ReactJs webApp
+
+Folder/ConfigureStore
+* Configure Store
+Reducers
+* Create-Reducer
+* Index, for combine Redux
+
 
 ## Available Scripts
 
